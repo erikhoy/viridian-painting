@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /orders
+Disallow: /orders/add
+Disallow: /products/add
+Disallow: /testimonials/add
+Disallow: /transactions
+Disallow: /transactions/add
+Disallow: /earnings
+Disallow: /users
+Disallow: /users/add
+Disallow: /users/login
+Disallow: /users/logout
