@@ -1,6 +1,6 @@
 <div class="row">
   <div class="col col-xs-12">
-    <p class="text-right">Call today! <?php echo $this->Html->link('720.376.4089', 'tel:7203764089'); ?><br>
+    <p class="text-right">Call today! <?php echo $this->Html->link('720.229.9336', 'tel:7202299336'); ?><br>
       <?php echo $this->Html->link('info@viridianpainting.com', 'mailto:info@viridianpainting.com'); ?></p>
   </div>
 </div>
